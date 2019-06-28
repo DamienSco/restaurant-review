@@ -14,7 +14,7 @@ For the **Restaurant Reviews** projects, we will incrementally convert a static 
 
 ## 3. How to Run the Application
 
-1. Open it here [this link](https://damiensco.github.io/restaurant-review/index.html).
+1. Open it [here](https://damiensco.github.io/restaurant-review/index.html).
 
 2. You can download or clone this repository.
 
