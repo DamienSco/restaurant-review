@@ -6,7 +6,7 @@
 
 * [Project Overview](#project-overview)
 * [How to Run the Application](#how-to-run-the-application)
-* [Credits](#credits)
+* [Credits and Tools Used](#credits-and-tools-used)
 
 ## 2. Project Overview
 
